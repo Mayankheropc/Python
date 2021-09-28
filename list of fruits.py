@@ -7,6 +7,6 @@ fruits = []
 x = 1
 while(len(fruits)<7):
     fruits.append(input("Enter " + str(x) + " Fruit Name : "))
-    x = x+1
+    x += 1
 print("List Created: ")
 print(fruits)
