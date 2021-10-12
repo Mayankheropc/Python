@@ -1,4 +1,4 @@
-# program to find out whether a given name is present in a list or not
+# program to find out whether a given name is present in a post or not
 # By - Mayank Singh
 # Date of Creation - 09-10-2021
 # Last Modified - 09-10-2021
