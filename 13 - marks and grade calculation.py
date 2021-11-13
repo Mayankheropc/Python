@@ -7,6 +7,10 @@
 # Percentage >= 40% : Grade E
 # Percentage  < 40% : Grade F
 
+# By - Mayank Singh
+# Date of Creation - 20-10-2021
+# Last Modified - 20-10-2021
+
 #assuming all marks are out of 100
 
 physics = float(input("Enter marks in physics: "))
